@@ -1,1 +1,0 @@
-"""Paytm Saathi application server."""
